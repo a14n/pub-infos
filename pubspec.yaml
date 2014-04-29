@@ -1,0 +1,7 @@
+name: pub_infos
+description: An application to see infos from pub
+dependencies:
+  browser: any
+  collection: any
+dev_dependencies:
+  ghpages_generator: ">=0.1.0 <0.2.0"
